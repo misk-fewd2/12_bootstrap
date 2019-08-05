@@ -135,6 +135,13 @@ Bootstrap comes with a ton of features, including:
 
 </details>
 
+## WE DO
+
+1. Navigate to [Bootstrap](https://getbootstrap.com/) and Download.
+1. Unzip the file and open in your text editor.
+1. add an `index.html` file.
+1. We'll goto the Examples section and grab some HTML from the dev tools. 
+
 ## Responsive Grid System
 
 #### Page layout using the Grid System
